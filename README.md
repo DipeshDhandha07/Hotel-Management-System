@@ -24,10 +24,12 @@ https://github.com/DipeshDhandha07/Hotel-Management-System.git
 ```html
 https://visualstudio.microsoft.com/vs/community/
 ```
+<br>
 
 ## Installation
 1. Install Visual studio communinity
 2. Bunifu Framweork in Visual Studio Community 2022 located inside nuget manager 
+<br>
 
 ## Database
 <br>
