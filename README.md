@@ -1,5 +1,5 @@
 # Hotel-Management-System
-This project is created using winforms in C# language ,bunifu framework, picturebox and built-in server explorer for Database part. It includes Daily Booking , Customers, Users, Rooms, Categories of Rooms, Dashboard for Daily income , Rooms and Customers.
+This project is created using winforms in C# language ,bunifu framework, picturebox and built-in server explorer for Database part. It includes Daily Booking , Customers, Users, Rooms, Categories of Rooms, Dashboard for Daily income, Rooms and Customers.
 <br>
 
 
