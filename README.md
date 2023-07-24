@@ -33,6 +33,7 @@ https://visualstudio.microsoft.com/vs/community/
 
 ## Database
 <br>
+
 1. Open Visual Studio Community
 2. Go to tools > Connect to database
 3. Browse and import HotelDB.mdf file and connect
