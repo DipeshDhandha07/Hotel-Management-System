@@ -10,6 +10,7 @@ This project is created using winforms in C# language ,bunifu framework, picture
 ### Categories Screen
 ![image](https://github.com/DipeshDhandha07/Hotel-Management-System/assets/55910147/cd95486c-8968-47ef-8bdc-1d1c5d399634)
 
+
 ## Download
 <br>
 1. Clone this repository
@@ -17,10 +18,15 @@ This project is created using winforms in C# language ,bunifu framework, picture
 ```html
 https://github.com/DipeshDhandha07/Hotel-Management-System.git
 ```
-2. Visual Studio Community 2022
-https://visualstudio.microsoft.com/vs/community/
 
-3. Install Bunifu Framweork in Visual Studio Community 2022 located inside nuget manager 
+2. Visual Studio Community 2022
+```html
+https://visualstudio.microsoft.com/vs/community/
+```
+
+## Installation
+1. Install Visual studio communinity
+2. Bunifu Framweork in Visual Studio Community 2022 located inside nuget manager 
 
 ## Database
 <br>
