@@ -1,10 +1,21 @@
 # Hotel-Management-System
 <br>
-This is a simple project created using winforms in C# language ,bunifu framework and server explorer for Database part.
-
+This is a simple project created using winforms in C# language ,bunifu framework, picturebox and built-in server explorer for Database part.
+<br>
 ![image](https://github.com/DipeshDhandha07/Hotel-Management-System/assets/55910147/8f630366-691f-4064-8af3-31877f0524fd) 
 ![image](https://github.com/DipeshDhandha07/Hotel-Management-System/assets/55910147/cd7109d2-ee4a-4f81-91aa-96db72835a78)
 ![image](https://github.com/DipeshDhandha07/Hotel-Management-System/assets/55910147/cd95486c-8968-47ef-8bdc-1d1c5d399634)
+
+## Download
+<br>
+1. Clone this repository
+```html
+https://github.com/DipeshDhandha07/Hotel-Management-System.git
+```
+2. Visual Studio Community 2022
+https://visualstudio.microsoft.com/vs/community/
+
+3. Install Bunifu Framweork in Visual Studio Community 2022 located inside nuget manager 
 
 ## Database
 <br>
