@@ -1,6 +1,6 @@
 # Hotel-Management-System
 <br>
-This is a simple project created using winforms in C# language ,bunifu framework, picturebox and built-in server explorer for Database part.
+This is a simple project created using winforms in C# language ,bunifu framework, picturebox and built-in server explorer for Database part. It includes Daily Booking , Customers ,Users, Rooms, Categories of Rooms, Dashboard for Daily income ,Rooms and Customers 
 
 
 ![image](https://github.com/DipeshDhandha07/Hotel-Management-System/assets/55910147/8f630366-691f-4064-8af3-31877f0524fd) 
@@ -10,6 +10,7 @@ This is a simple project created using winforms in C# language ,bunifu framework
 ## Download
 <br>
 1. Clone this repository
+
 ```html
 https://github.com/DipeshDhandha07/Hotel-Management-System.git
 ```
